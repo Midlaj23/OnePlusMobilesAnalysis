@@ -1,0 +1,954 @@
+[
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,590"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b918,325"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,725"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b917,983"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b917,881"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Pastel lime, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,885"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,899"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b918,499"
+  },
+  {
+    "Name": "OnePlus Nord CE3 5G (Grey Shimmer, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b923,114"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,907"
+  },
+  {
+    "Name": "OnePlus Nord CE3 5G (Aqua Surge, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 50MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b923,394"
+  },
+  {
+    "Name": "OnePlus 12R (Cool Blue, 128 GB)",
+    "Display": "17.22 cm (6.78 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5500 mAh Battery",
+    "Rating": "4.6",
+    "Price": "\u20b939,086"
+  },
+  {
+    "Name": "OnePlus 12R (Cool Blue, 256 GB)",
+    "Display": "17.22 cm (6.78 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5500 mAh Battery",
+    "Rating": "4.6",
+    "Price": "\u20b945,759"
+  },
+  {
+    "Name": "OnePlus 12R (Irony Gray, 256 GB)",
+    "Display": "17.22 cm (6.78 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5500 mAh Battery",
+    "Rating": "4.6",
+    "Price": "\u20b945,631"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)",
+    "Display": "16.74 cm (6.59 inch) Display",
+    "Camera": "64MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b918,980"
+  },
+  {
+    "Name": "OnePlus 12R (Iron Gray, 128 GB)",
+    "Display": "17.22 cm (6.78 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5500 mAh Battery",
+    "Rating": "4.6",
+    "Price": "\u20b939,103"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b919,681"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",
+    "Display": "16.74 cm (6.59 inch) Display",
+    "Camera": "64MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b917,880"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Sonic Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b940,888"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Sonic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b938,489"
+  },
+  {
+    "Name": "OnePlus Nord 3 5G (Misty Green, 256 GB)",
+    "Display": "17.12 cm (6.74 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b937,895"
+  },
+  {
+    "Name": "OnePlus Nord 3 5G (Tempest Gray, 128 GB)",
+    "Display": "17.12 cm (6.74 inch) Full HD+ Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b930,599"
+  },
+  {
+    "Name": "OnePlus Nord 3 5G (Misty Green, 128 GB)",
+    "Display": "17.12 cm (6.74 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b928,134"
+  },
+  {
+    "Name": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+    "Display": "17.07 cm (6.72 inch) Display",
+    "Camera": "108MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b918,988"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Galactic Silver, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b939,880"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Sonic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b935,999"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Sonic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b936,789"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Galactic Silver, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b936,930"
+  },
+  {
+    "Name": "OnePlus N20 SE (JADE WAVE, 128 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b912,950"
+  },
+  {
+    "Name": "OnePlus 12 (Silky Black, 512 GB)",
+    "Display": "17.32 cm (6.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "5400 mAh Battery",
+    "Rating": "4.8",
+    "Price": "\u20b968,449"
+  },
+  {
+    "Name": "OnePlus 12 (Silky Black, 256 GB)",
+    "Display": "17.32 cm (6.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "5400 mAh Battery",
+    "Rating": "4.8",
+    "Price": "\u20b963,409"
+  },
+  {
+    "Name": "OnePlus 12 (Flowy Emerald, 512 GB)",
+    "Display": "17.32 cm (6.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "5400 mAh Battery",
+    "Rating": "4.8",
+    "Price": "\u20b969,858"
+  },
+  {
+    "Name": "OnePlus 12 (Flowy Emerald, 256 GB)",
+    "Display": "17.32 cm (6.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "5400 mAh Battery",
+    "Rating": "4.8",
+    "Price": "\u20b964,198"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Bahama Blue, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b922,395"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Bahama Blue, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b922,995"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Gray Mirror, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b921,699"
+  },
+  {
+    "Name": "OnePlus 10R (Sierra Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b929,790"
+  },
+  {
+    "Name": "OnePlus N20 SE (CELESTIAL BLACK, 128 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP + 50MP + 2MP | 8MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b913,499"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Bahama Blue, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b921,450"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Sonic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b937,450"
+  },
+  {
+    "Name": "OnePlus 10 Pro 5G (Emerald Forest, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b944,898"
+  },
+  {
+    "Name": "OnePlus Nord 2T 5G (Gray Shadow, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b928,990"
+  },
+  {
+    "Name": "OnePlus N20 SE (CELESTIAL BLACK, 64 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b914,900"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Charcoal Ink, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.1",
+    "Price": "\u20b924,990"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Silver Ray, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera | 32MP Front Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.1",
+    "Price": "\u20b924,990"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Blue Void, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.1",
+    "Price": "\u20b925,990"
+  },
+  {
+    "Name": "OnePlus N20 SE (BLUE OASIS, 64 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b912,698"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Charcoal Ink, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b922,990"
+  },
+  {
+    "Name": "OnePlus 10R (Sierra Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b929,249"
+  },
+  {
+    "Name": "OnePlus 9RT 5G (Nano Silver, 128 GB)",
+    "Display": "16.81 cm (6.62 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b939,990"
+  },
+  {
+    "Name": "OnePlus 10R (Forest Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b933,300"
+  },
+  {
+    "Name": "OnePlus 11 5G (Marble Odyssey, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b961,990"
+  },
+  {
+    "Name": "OnePlus 9RT 5G (Hacker Black, 128 GB)",
+    "Display": "16.81 cm (6.62 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b929,990"
+  },
+  {
+    "Name": "OnePlus 10R 5G (Forest Green, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b939,990"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Jade Green, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b940,999"
+  },
+  {
+    "Name": "OnePlus 9R 5G (Carbon Black, 256 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.1",
+    "Price": "\u20b931,990"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Moonstone Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b947,899"
+  },
+  {
+    "Name": "OnePlus 10 Pro 5G (Volcanic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera | 32MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b942,490"
+  },
+  {
+    "Name": "OnePlus 8 (Glacial Green, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP + 2MP + 16MP | 16MP Front Camera",
+    "Battery": "4300 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b929,990"
+  },
+  {
+    "Name": "OnePlus 10 Pro 5G (Volcanic Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b942,490"
+  },
+  {
+    "Name": "OnePlus Open (Emerald Dusk, 512 GB)",
+    "Display": "19.86 cm (7.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4805 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b91,40,000"
+  },
+  {
+    "Name": "OnePlus 9RT 5G (Hacker Black, 128 GB)",
+    "Display": "16.81 cm (6.62 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b929,990"
+  },
+  {
+    "Name": "OnePlus Open (Voyager Black, 512 GB)",
+    "Display": "19.86 cm (7.82 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4805 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b91,36,988"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Blue Void, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.6",
+    "Price": "\u20b923,990"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Moonstone Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b939,499"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Jade Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b937,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Bahama Blue, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b923,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Charcoal Ink, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.6",
+    "Price": "\u20b932,990"
+  },
+  {
+    "Name": "OnePlus 9 5G (Winter Mist, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b942,499"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Jade Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b961,990"
+  },
+  {
+    "Name": "OnePlus 11 5G (Titan Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b952,980"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Moonstone Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b939,499"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Jade Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b937,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Bahama Blue, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b923,999"
+  },
+  {
+    "Name": "OnePlus 9 5G (Winter Mist, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b932,990"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Jade Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b942,499"
+  },
+  {
+    "Name": "OnePlus 11 5G (Titan Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b961,990"
+  },
+  {
+    "Name": "OnePlus 11 5G (Titan Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b952,980"
+  },
+  {
+    "Name": "OnePlus Nord 2 5G (Gray Sierra, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b926,990"
+  },
+  {
+    "Name": "OnePlus 8T 5G (Lunar Silver, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b929,990"
+  },
+  {
+    "Name": "OnePlus 10T 5G (Moonstone Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4800 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b942,790"
+  },
+  {
+    "Name": "OnePlus 9R 5G (Carbon Black, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b930,990"
+  },
+  {
+    "Name": "OnePlus 11 5G (Eternal Green, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b957,998"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)",
+    "Display": "16.74 cm (6.59 inch) Display",
+    "Camera": "64MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b920,890"
+  },
+  {
+    "Name": "OnePlus Nord 2 5G (Gray Sierra, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b933,990"
+  },
+  {
+    "Name": "OnePlus 9R 5G (Lake Blue, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b930,990"
+  },
+  {
+    "Name": "OnePlus 10R (Sierra Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b935,990"
+  },
+  {
+    "Name": "OnePlus 9 5G (Winter Mist, 256 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b932,990"
+  },
+  {
+    "Name": "OnePlus 9 5G (Astral Black, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b930,990"
+  },
+  {
+    "Name": "OnePlus Nord 2 5G (Blue Haze, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b926,990"
+  },
+  {
+    "Name": "OnePlus 11 5G (Eternal Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b950,999"
+  },
+  {
+    "Name": "OnePlus Nord 2T 5G (Jade Fog, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b933,990"
+  },
+  {
+    "Name": "OnePlus 9 5G (Arctic Sky, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48MP Rear Camera | 16MP Front Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b930,990"
+  },
+  {
+    "Name": "OnePlus Nord 2 5G (Green Wood, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b934,990"
+  },
+  {
+    "Name": "OnePlus Nord 2 5G (PAC-MAN, 256 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b934,990"
+  },
+  {
+    "Name": "OnePlus Nord (Blue Marble, 128 GB)",
+    "Display": "16.36 cm (6.44 inch) Full HD+ Display",
+    "Camera": "48MP + 8MP | 32MP + 8MP Dual Front Camera",
+    "Battery": "4115 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b924,790"
+  },
+  {
+    "Name": "OnePlus 10R (Forest Green, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b931,990"
+  },
+  {
+    "Name": "OnePlus 10 Pro 5G (Emerald Forest, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera | 32MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b950,999"
+  },
+  {
+    "Name": "OnePlus 7T Pro Mclaren Limited Edition (Papaya Orange, 256 GB)",
+    "Display": "16.94 cm (6.67 inch) Display",
+    "Camera": "48MP Rear Camera | 8MP Front Camera",
+    "Battery": "4085 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b944,990"
+  },
+  {
+    "Name": "OnePlus 10R 5G (Prime Blue, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.3",
+    "Price": "\u20b933,290"
+  },
+  {
+    "Name": "OnePlus 10R 5G (Sierra Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b936,990"
+  },
+  {
+    "Name": "OnePlus 7 Pro (Mirror Grey, 256 GB)",
+    "Display": "16.94 cm (6.67 inch) Display",
+    "Camera": "48 MP + 8 MP + 16 MP | 16MP Front Camera",
+    "Battery": "4000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b939,900"
+  },
+  {
+    "Name": "OnePlus 10 Pro 5G (Volcanic Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b959,990"
+  },
+  {
+    "Name": "OnePlus Nord (Gray Onyx, 64 GB)",
+    "Display": "16.36 cm (6.44 inch) Full HD+ Display",
+    "Camera": "48MP + 8MP | 32MP + 8MP Dual Front Camera",
+    "Battery": "4115 mAh Battery",
+    "Rating": "4.1",
+    "Price": "\u20b922,689"
+  },
+  {
+    "Name": "OnePlus 7T (Frosted Silver, 128 GB)",
+    "Display": "16.64 cm (6.55 inch) Display",
+    "Camera": "48 MP + 12 MP + 16 MP | 16MP Front Camera",
+    "Battery": "3800 mAh Battery",
+    "Rating": "4.6",
+    "Price": "\u20b929,990"
+  },
+  {
+    "Name": "OnePlus 9 Pro 5G (Stellar Black, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b942,990"
+  },
+  {
+    "Name": "OnePlus 9 Pro 5G (Stellar Black, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b946,990"
+  },
+  {
+    "Name": "OnePlus 9 Pro 5G (Pine Green, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "48MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.8",
+    "Price": "\u20b954,450"
+  },
+  {
+    "Name": "OnePlus N20 SE (JADE WAVE, 128 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b912,950"
+  },
+  {
+    "Name": "OnePlus N20 SE (CELESTIAL BLACK, 128 GB)",
+    "Display": "16.66 cm (6.56 inch) Display",
+    "Camera": "50MP + 50MP + 2MP | 8MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b913,499"
+  },
+  {
+    "Name": "OnePlus Nord CE3 5G (Aqua Surge, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.4",
+    "Price": "\u20b926,999"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Red, 128 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b939,999"
+  },
+  {
+    "Name": "OnePlus 11R 5G (Solar Red, 512 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera | 16MP Front Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b945,997"
+  },
+  {
+    "Name": "OnePlus 11R 5G (SOLAR RED, 256 GB)",
+    "Display": "17.02 cm (6.7 inch) Display",
+    "Camera": "50MP Rear Camera",
+    "Battery": "5000 mAh Battery",
+    "Rating": "4.5",
+    "Price": "\u20b944,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 2 5G (Gray Mirror, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4.2",
+    "Price": "\u20b923,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Blue Void, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b923,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Silver Ray, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera | 16MP Front Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "4",
+    "Price": "\u20b922,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Charcoal Ink, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.6",
+    "Price": "\u20b921,999"
+  },
+  {
+    "Name": "OnePlus Nord CE 5G (Silver Gray, 128 GB)",
+    "Display": "16.33 cm (6.43 inch) Display",
+    "Camera": "64MP Rear Camera",
+    "Battery": "4500 mAh Battery",
+    "Rating": "3.6",
+    "Price": "\u20b921,999"
+  }
+]
