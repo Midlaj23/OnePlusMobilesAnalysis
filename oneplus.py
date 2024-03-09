@@ -13,8 +13,7 @@ headers = {
 
 my_phones = []
 
-for page in range(1, 6):  # Change '3' to the number of pages you want to scrape
-    # Update the URL with the page parameter
+for page in range(1, 6): 
     page_url = f'{url}&page={page}'
     request_site = Request(page_url, headers=headers)
     html = request.urlopen(request_site)
